@@ -1,0 +1,11 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "editor.minimap.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "git.ignoreRebaseWarning": true
+}
