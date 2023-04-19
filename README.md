@@ -1,7 +1,7 @@
 # How to install & run this project:
 
 1. Install dependencies: `npm i` to install
-2. Run all tests: `npx run wdio.conf.js`
+2. Run all tests: `npm run wdio`
 
 # How to install & use NPM Packages (using @faker-js/faker as an example):
 
